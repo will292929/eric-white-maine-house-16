@@ -2,6 +2,8 @@
 
 Static campaign starter site for Eric M. White, candidate for Maine House District 16 in the 2026 general election.
 
+Live site: https://will292929.github.io/eric-white-maine-house-16/
+
 ## Publishing
 
 This repository is designed for GitHub Pages. The site uses plain HTML, CSS, and JavaScript with no build step.
@@ -17,4 +19,3 @@ Biography, policy positions, campaign contact details, and the paid-for statemen
 ## Photo credit
 
 `assets/surry-maine.jpg` depicts Surry, Maine. Photo by Doug Kerr, via Wikimedia Commons, licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).
-
