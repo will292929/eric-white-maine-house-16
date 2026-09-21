@@ -2,9 +2,9 @@
 
 Static campaign starter site for Eric M. White, candidate for Maine House District 16 in the 2026 general election.
 
-Primary domain: https://ericwhiteforme.com/
+Live site: https://will292929.github.io/eric-white-maine-house-16/
 
-GitHub Pages fallback: https://will292929.github.io/eric-white-maine-house-16/
+Planned custom domain: https://ericwhiteforme.com/ (DNS connection pending)
 
 ## Publishing
 
